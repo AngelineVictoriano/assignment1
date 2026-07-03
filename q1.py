@@ -9,7 +9,7 @@ def run():
     num_years = int(input("Enter number of years the account will be left to earn interest: "))
 
     amt_money = prin * ((1 + rate/num_compound) ** (num_compound * num_years))
-    print(f"Result: {amt_money}")
+    print(f"Result: ${round(amt_money, 2)}")
 
     # Example logic:
     # result = 5 + 5

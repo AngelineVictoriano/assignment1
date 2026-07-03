@@ -10,7 +10,6 @@ def run():
         print(f"Result: the date is magic")
     else:
         print("Result: The date is not magic")
-    print("Hello from Question 2! (Not implemented yet)")
 
     # Example logic:
     # result = 5 + 5
