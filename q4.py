@@ -11,7 +11,7 @@ def run():
             yearly_tuition = base_tuition*1.03
         else:
             yearly_tuition = yearly_tuition*1.03
-        print(f"Year {i+1} tuition: {yearly_tuition}")
+        print(f"Year {i+1} tuition: ${round(yearly_tuition, 2)}")
 
     # Example logic:
     # result = 5 + 5
