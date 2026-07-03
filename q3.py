@@ -1,3 +1,9 @@
+#/*****************************************************/
+#/* CS03A - Summer 2026
+#/* Assignment 1 - Question 3
+#/* Student Name: Mary Angeline Victoriano
+#/* SID: 20528831
+## /***************************************************/
 def run():
     """
     Students should implement their code for Question 3 inside this function.
