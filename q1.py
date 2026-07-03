@@ -1,7 +1,7 @@
 #/*****************************************************/
 #/* CS03A - Summer 2026
 #/* Assignment 1 - Question 1
-#/* Student Name: Mary Angeline Victoriano
+#/* Student Name: Angeline Victoriano
 #/* SID: 20528831
 ## /***************************************************/
 def run():
